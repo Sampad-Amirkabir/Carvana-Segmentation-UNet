@@ -4,6 +4,8 @@ This repository contains an implementation of the UNet architecture for image se
 
 ## Table of Contents
 
+This repository was originally created by [Matin Ghorbani](https://github.com/matin-ghorbani) and is available at this original [repository](https://github.com/matin-ghorbani/Carvana-Segmentation-UNet)
+
 1. [Overview](#overview)
 2. [UNet Architecture](#unet-architecture)
 3. [Dataset](#dataset)
